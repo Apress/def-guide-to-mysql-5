@@ -1,0 +1,38 @@
+.resulttable {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  border-spacing: 0px;
+  border-width: 0px;
+  border-collapse: collapse; }
+
+.td1 {
+  text-align: right;
+  color: #444444;
+  background-color: #c0c0ff;
+  border-width: 0px;
+  padding-left: 4px;
+  padding-right: 4px; }
+
+.td2 {
+  background-color: #c0c0ff;
+  border-width: 0px;
+  padding-left: 4px;
+  padding-right: 4px; }
+
+.td1head {
+  text-align: right;
+  color: #444444;
+  background-color: #d0d0ff;
+  border-width: 0px;
+  padding: 4px; }
+
+.td2head {
+  background-color: #d0d0ff;
+  font-weight: bold;
+  border-width: 0px;
+  padding: 4px; }
+
+.tdinvisible {
+  color: transparent;
+  background-color: transparent;
+}
+

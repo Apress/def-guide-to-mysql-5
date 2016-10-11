@@ -1,0 +1,10 @@
+1	NULL
+2	"NULL"
+3	\N
+4	"\N"
+5	\n
+6	"\n"
+7	0x414243
+8	"0x414243"
+9	blob blob
+10	"blob blob"

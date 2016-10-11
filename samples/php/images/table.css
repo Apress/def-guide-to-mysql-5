@@ -1,0 +1,7 @@
+table { border-spacing: 2px; }
+th { background-color: #d0d0ff;
+     text-align: left;
+     vertical-align: bottom;
+     padding: 10px; }
+td { background-color: #b0b0ff;
+     text-align: left; }

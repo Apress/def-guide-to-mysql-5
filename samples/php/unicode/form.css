@@ -1,0 +1,22 @@
+.myformtable {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  border: 5px solid #9090e0;
+  border-spacing: 0px;
+  border-collapse: collapse; }
+.myformtd {
+  background-color: #b0b0ff;
+  border-width: 4px 0px;
+  border-style: solid;
+  border-color: #9090e0;
+  padding: 3px 5px;
+   }
+.mycontrol {
+   border: none;
+   background: #e0e0ff;
+   font-family: Verdana, Arial, Helvetica, sans-serif;  }
+.mybutton {
+  border: 2px outset #ffffff;
+  background: #cccccc;
+  font-family: Verdana, Arial, Helvetica, sans-serif;  }
+.red {
+  color: red; }
